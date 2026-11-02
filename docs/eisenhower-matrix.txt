@@ -1,0 +1,29 @@
+         urgent                         not urgent
+_____________________________________________________________________
+important
+
+Do — MVP (Version 1.0)                       Schedule — Version 2.0+
+- Display courses and grades on            - Brightspace automatic grade syncing
+  one dashboard                            - What-if grade calculator
+- Add, edit, and delete courses            - Grade history and progress charts
+  and assignments                          - Assignment deadline notifications
+- Track upcoming and completed             - Multiple-semester support
+  coursework
+- Calculate weighted course grades
+  in real time
+- Calculate semester GPA using
+  Purdue's grading scale and credits
+- Save data in browser localStorage
+
+_____________________________________________________________________
+not important
+
+Delegate  — Use Existing Tools              Delete — Cut Features
+- React for reusable components            - AI study recommendations
+  and interface updates                    - Social grade leaderboards
+- Tailwind CSS for                         - Built-in messaging or chat
+  styling                                  - Native mobile application
+- localStorage API for
+  saving and loading JSON data
+
+_____________________________________________________________________
