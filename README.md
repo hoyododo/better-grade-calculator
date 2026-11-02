@@ -40,8 +40,8 @@ The project is currently in the planning phase. Once development is complete, us
 4. Start the local server.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/better-grade-calc.git
-cd better-grade-calc
+git clone https://github.com/STARPLEXO/better-grade-calculator.git
+cd better-grade-calculator
 npm install
 npm run dev
 ```
